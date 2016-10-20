@@ -1,0 +1,55 @@
+/*MAIN BANNER*/
+
+.strook {
+    background-color: #cc3333;
+}
+
+.firsttext {
+    color: white;
+}
+
+/*ARTICLE*/
+
+.col-md-6 {
+    width: 40%;
+}
+
+/*ASIDE*/
+
+.sidebar {
+    position: relative;
+    width: 320px;
+    margin-left: -320px;
+    float: right;
+    overflow: hidden;
+    background-color: #cc3333;
+    color: white;
+    min-height: 600px;
+}
+
+@media only screen and (max-width: 768px) {
+    .sidebar {
+        display: none;
+    }
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
